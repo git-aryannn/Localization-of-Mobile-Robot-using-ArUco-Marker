@@ -1,8 +1,8 @@
 ## Localization of Mobile Robot using ArUco Marker
 
 🔗 **Project Resources:**
-* [Project Presentation (PDF)](YOUR_PRESENTATION_DRIVE_LINK_HERE)
-* [Project Report (PDF)](YOUR_REPORT_DRIVE_LINK_HERE)
+* [Project Presentation (PDF)](https://drive.google.com/file/d/1nGkFsTOzs12Mj3QknvotTUo6blexM4S9/view?usp=drivesdk)
+* [Project Report (PDF)](https://drive.google.com/file/d/1Kq4hREGHQWuL_Wt07eyYqzGD06wkwTxr/view?usp=drivesdk)
 
 
 ## The Challenge
