@@ -1,5 +1,10 @@
 ## Localization of Mobile Robot using ArUco Marker
 
+🔗 **Project Resources:**
+* [Project Presentation (PDF)](YOUR_PRESENTATION_DRIVE_LINK_HERE)
+* [Project Report (PDF)](YOUR_REPORT_DRIVE_LINK_HERE)
+
+
 ## The Challenge
 1. Indoor robots need to know WHERE they are.
 2. GPS FAILS inside buildings.
