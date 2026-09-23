@@ -1,6 +1,4 @@
 ## Localization of Mobile Robot using ArUco Marker
-def write_readme():
-    content = """# Localization of Mobile Robot using ArUco Marker
 
 ## The Challenge
 1. Indoor robots need to know WHERE they are.
@@ -91,11 +89,3 @@ Successfully designed and implemented a low-cost, vision-based localization syst
 4. Bradski, G., Kaehler, A. Learning OpenCV: Computer Vision with the OpenCV Library. O'Reilly Media.
 5. OpenCV Official Documentation. Available at: https://opencv.org.
 """
-    
-    file_path = "/tmp/README.md"
-    with open(file_path, "w") as f:
-        f.write(content)
-        
-    print(f"[file-tag: {file_path}]")
-
-write_readme()
